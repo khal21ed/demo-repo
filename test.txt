@@ -1,1 +1,2 @@
 fetch me
+a new commit on my local machine
